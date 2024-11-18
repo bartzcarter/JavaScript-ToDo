@@ -45,7 +45,7 @@ Task Addition
 	•	Users can add tasks by clicking the ‘Add ToDo’ button or pressing the ‘Enter’ key.
 	•	Task text, including email addresses, can be input in the task field.
 
-Task Filtering
+<h1>Task Filtering</h1>
 
 	•	Tasks can be filtered into the following categories:
 	•	All: Shows all tasks.
