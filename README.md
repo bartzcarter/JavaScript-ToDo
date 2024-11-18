@@ -1,4 +1,4 @@
-Project Documentation: ToDo Web Application
+<h1>Project Documentation: ToDo Web Application</h1>
 
 Group Number: Group 24
 Feature: ToDo List Application with Email Links and Drag-and-Drop Reordering using Bootstrap for Styling
