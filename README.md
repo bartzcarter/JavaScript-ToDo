@@ -76,8 +76,12 @@ Building this ToDo List application was a valuable experience in integrating web
 
 <h2>References</h2>
 
-	•	SortableJS Documentation
-	•	Bootstrap 4.5 Documentation
-	•	MDN Web Docs - LocalStorage
-	•	Regex Tutorial
-	•	Stack Overflow for problem-solving assistance
+SortableJS Documentation - https://sortablejs.github.io/Sortable/
+
+Bootstrap 4.5 Documentation - https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+MDN Web Docs - LocalStorage - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+Regex Tutorial - https://www.geeksforgeeks.org/write-regular-expressions/
+
+Stack Overflow for problem-solving assistance - https://stackoverflow.com/
