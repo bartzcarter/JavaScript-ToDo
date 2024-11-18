@@ -19,9 +19,9 @@ The ToDo List web application includes the following capabilities:
 
 Project Links
 
-	•	Hosted Site: http://csci331vm.cs.montana.edu/~s79d362/ToDo/
-	•	GitHub Repository: https://github.com/bartzcarter/CSCI331-project
-	•	Group Presentation Slideshow: 
+Hosted Site: http://csci331vm.cs.montana.edu/~s79d362/ToDo/
+GitHub Repository: https://github.com/bartzcarter/CSCI331-project
+Group Presentation Slideshow: 
 
 <h2>Creative Objective</h2>
 
