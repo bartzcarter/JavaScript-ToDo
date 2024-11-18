@@ -64,21 +64,6 @@ LocalStorage
 
 	•	The LocalStorage API is used to save tasks so that the list persists between browser sessions, even after a page refresh.
 
-Sample Code Excerpt
-// Initialize SortableJS for reordering
-new Sortable(document.getElementById("todoList"), {
-  animation: 150,
-  onEnd: function (event) {
-    // Update the task array to reflect the new order
-    const [movedTask] = tasks.splice(event.oldIndex, 1);
-    tasks.splice(event.newIndex, 0, movedTask);
-
-    // Re-render tasks and save the updated order
-    saveTasks();
-    renderTasks();
-  },
-});
-
 Individual Member Notes
 
 	•	Carter Bartz: I contributed to the full development of the application, including coding, testing, and refining features.
