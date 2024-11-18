@@ -1,0 +1,17 @@
+.completed span {
+  text-decoration: line-through;
+  color: red;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #007bff;
+  font-family: "Roboto", sans-serif;
+}
+
+.btn {
+  font-weight: bold;
+}
