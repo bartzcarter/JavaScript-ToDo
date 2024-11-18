@@ -7,7 +7,7 @@ Group Members:
 
 	•	Carter Bartz
 
-Feature Descriptions
+<h2>Feature Descriptions</h2>
 
 The ToDo List web application includes the following capabilities:
 
@@ -23,11 +23,11 @@ Project Links
 	•	GitHub Repository: [Insert link here]
 	•	Group Presentation Slideshow: [Insert link here]
 
-Creative Objective
+<h2>Creative Objective</h2>
 
 The main goal of this project was to develop an interactive and user-friendly ToDo list application that enhances productivity. Key features such as drag-and-drop task reordering and automatic email detection were implemented to address common user needs for task management and quick communication. The application also integrates persistent storage, ensuring tasks remain available after sessions end.
 
-Tech Summary
+<h2>Tech Summary</h2>
 
 The ToDo application was developed using the following technologies and tools:
 
@@ -38,14 +38,14 @@ The ToDo application was developed using the following technologies and tools:
 	•	LocalStorage API: Ensures tasks persist across browser sessions.
 	•	Regex: Utilized for detecting and formatting email addresses within task text as clickable mailto links.
 
-Implementation Details
+<h2>Implementation Details</h2>
 
 Task Addition
 
 	•	Users can add tasks by clicking the ‘Add ToDo’ button or pressing the ‘Enter’ key.
 	•	Task text, including email addresses, can be input in the task field.
 
-<h1>Task Filtering</h1>
+Task Filtering
 
 	•	Tasks can be filtered into the following categories:
 	•	All: Shows all tasks.
@@ -68,16 +68,14 @@ Individual Member Notes
 
 	•	Carter Bartz: I contributed to the full development of the application, including coding, testing, and refining features.
 
-Conclusion
+<h2>Conclusion</h2>
 
 Building this ToDo List application was a valuable experience in integrating web technologies to create a functional and cohesive user experience. I gained hands-on experience with libraries like SortableJS and advanced features such as email hyperlinking using regex. One of the main challenges faced was ensuring correct email hyperlink formatting, which was solved through more refined regex expressions. Future improvements could include adding user authentication and implementing task deadlines for advanced task management.
 
-References
+<h2>References</h2>
 
 	•	SortableJS Documentation
 	•	Bootstrap 4.5 Documentation
 	•	MDN Web Docs - LocalStorage
 	•	Regex Tutorial
 	•	Stack Overflow for problem-solving assistance
-
-This format organizes the content into clearly defined sections, making it easy to read and understand. You can replace the placeholder links with actual URLs before sharing or presenting the documentation.
