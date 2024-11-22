@@ -23,7 +23,7 @@ Hosted Site: http://csci331vm.cs.montana.edu/~s79d362/ToDo/
 
 GitHub Repository: https://github.com/bartzcarter/CSCI331-project
 
-Presentation Slideshow: 
+Presentation Slideshow: https://docs.google.com/presentation/d/17YrlRiA1GNOtoLmLkVLHG1ECWU2q50RAi5zPOCd8Z-c/edit?usp=sharing
 
 <h2>Creative Objective</h2>
 
