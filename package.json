@@ -1,0 +1,16 @@
+{
+  "name": "javascript-todo",
+  "version": "1.0.0",
+  "description": "<h1>Project Documentation: ToDo Web Application</h1>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
